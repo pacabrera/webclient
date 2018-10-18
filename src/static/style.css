@@ -1,0 +1,315 @@
+body{
+
+}
+.container-fluid a{
+	 color: #9D3E2B;
+}
+.headerimg{
+	float: left;
+	margin-top: 50px;
+	margin-left: 75px;
+}
+.header {
+	padding: 10px;
+	padding-bottom: 150px;
+	padding-left: 20px;
+	
+}
+.header h2,h6{
+	color: white;
+}
+.headerimagetext{
+	float: right;
+	text-align: center;
+	margin-right: 75px;
+	margin-top: 175px;
+}
+
+#verticalnav{
+	margin-top: 25px;
+}
+#verticalitems{
+	color: black;
+	border: 1px solid grey;
+	border-width: 50%;
+}
+.boxheader{
+	width: 1140px;
+	height: 100px;
+	background: rgba(0,0,0,0.6);
+	padding: 40px;
+	color: white;
+	margin-top: 60px;
+	text-align: center;
+	
+}
+.mainbox{
+	width: 1140px;
+	height: 550px;
+	background: rgba(0,0,0,0.6);
+	padding: 20px;
+	color: white;
+	margin-top: -20px;
+	float: left;
+	font-size: 15px;
+	margin-bottom: 70px;
+}
+#itemss{
+	margin-top: 80px;
+	text-align: center;
+}
+.navspace{
+	margin-left: 220px;
+}
+#spacesearch{
+	float: right;
+}
+.featuredproducts{
+	margin-top: -10px;
+	margin-left: 60px;
+}
+.sidetext{
+	float: right;
+	display: inline-block;
+	margin-top: 35px;
+	margin-left: 30px;
+}
+.sidetext p{
+	margin-left: -50px;
+	margin-right: 100px;
+	text-align: left;
+}
+.sidetext img{
+	margin-top: 20px;
+}
+.inputnum{
+	width: 30%;
+	float: left;
+	margin-left: -50px;
+}
+.inputcart{
+	float: left;
+	margin-left: 5px;
+}
+
+.textheader{
+	background: #2D2D2D;
+	padding: 1px;
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+	border: 2px #1C1C1C;
+}
+.textheader h3{
+	font-size: 15px;
+}
+.textheader h4{
+	font-size: 12px;
+	padding-bottom: 2px;
+}
+#tag1{
+	margin-bottom: 15px;
+	background: black;
+	width: 825px;
+	float: left;
+	margin-top: -5px;
+	margin-left: 5px;
+}
+#tag2{
+	margin-bottom: 15px;
+	background: black;
+	width: 197px;
+	float: left;
+	margin-top: -5px;
+	margin-left: 5px;
+	text-align: center;
+}
+#tagss{
+	margin-bottom: 15px;
+	background: black;
+	width: 595px;
+	float: left;
+	margin-top: -5px;
+	margin-left: 5px;
+}
+#tagss1{
+	margin-bottom: 15px;
+	background: #141517;
+	width: 425px;
+	float: left;
+	padding-top: 20px;
+	margin-top: -5px;
+	margin-left: 5px;
+}
+#tagss2{
+	margin-bottom: 15px;
+	background: #141517;
+	width: 100px;
+	float: left;
+	margin-top: -5px;
+	padding-top: 33px;
+	padding-bottom: 32px;
+	text-align: center;
+}
+#tagss3{
+	margin-bottom: 15px;
+	background: #141517;
+	width: 100px;
+	float: left;
+	margin-top: -5px;
+	padding-top: 33px;
+	padding-bottom: 32px;
+	text-align: center;
+}
+#tagss4{
+	margin-bottom: 15px;
+	background: #0E0F10;
+	width: 200px;
+	float: left;
+	margin-top: -5px;
+	padding-top: 36px;
+	padding-bottom: 35px;
+	padding-right: 30px;
+	padding-left: 35px; 
+}
+#tag1 h5{
+	font-weight: bold;
+}
+.content-box{
+	width: 845px;
+	height: 400px;
+	background: #1C1C1C;
+	padding: 20px;
+	color: white;
+	float: left;
+}
+#textsize{
+	font-size: 10px;
+
+}
+#textsizeside{
+	font-size: 9px;
+	margin-left: 25px;
+}
+#textsize2{
+	font-size: 12px;
+}
+#textsizelatest{
+	font-size: 10px;
+}
+footer{
+	margin-top: 25px;
+	background-color: rgba(0,0,0,0.5);
+	height: 40px;
+}
+footer p{
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 350px;
+	float: left;
+	display: inline;
+}
+.spacingindx p{
+	margin-top: 20px;
+}
+.comment-box{
+	width: 880px;
+	height: 100px;
+	border: 1px solid;
+	padding: 14px;
+	color: black;
+	margin: 0 auto;
+	text-align: left;
+}
+.box{
+	
+}
+.reply{
+	margin-left: 145px;
+	margin-top: 10px;
+	display: inline-block;
+	color: #4f99e5;
+	font-weight: bold;
+}
+.post{
+	margin-left: 145px;
+	margin-top: 80px;
+	display: inline-block;
+}
+.post2{
+	margin-left: 145px;
+}
+.commenth4{
+	margin-right: 935px;
+	margin-top: 50px;
+	margin-bottom: -60px;
+	float: right;
+}
+#headerrr{
+	margin-bottom: 20px;
+}
+.commentbutton{
+	margin-left: 130px;
+}
+.input-signup{
+	padding: 8px;
+	width: 100%;
+}
+.spacing{
+	margin-bottom: 10px;
+}
+.buttonsss{
+	margin-top: 25px;
+}
+#reset{
+	margin-left: 9px;
+}
+.buttonnn{
+	padding: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#signup-space{
+	margin-top: 20px;
+}
+#searchbar-space{
+	margin-right: 20px;
+}
+#searchspace{
+
+}
+.boks button{
+	color: black;
+}
+.boks input{
+	margin-left: 270px;
+	width: 50%;
+}
+.sidebox{
+	margin-bottom: 15px;
+	background: #101112;
+	height: 80px;
+	width: 227px;
+	float: left;
+	padding-top: 22px;
+	padding-bottom: 35px;
+	padding-right: 35px;
+	padding-left: 50px;
+}
+#buttondesign{
+	color: white;
+	background-color: #9D3E2B;
+	border: 2px solid white;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.sidebox2{
+	margin-bottom: 15px;
+	background: #101112;
+	height: 400px;
+	width: 227px;
+	float: left;
+	padding-top: 22px;
+	padding-bottom: 35px;
+	padding-right: 35px;
+	padding-left: 10px;
+}

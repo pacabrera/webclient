@@ -12,9 +12,12 @@ const customerRoutes = require('./routes/customer');
 // settings
 app.set('port', process.env.PORT || 3000);
 app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'ejs');
+app.set('view engine', 'ejs','html');
 
 // middlewares
+// 
+
+
 app.use(morgan('dev'));
 app.use(myConnection(mysql, {
   host: 'localhost',
@@ -29,7 +32,7 @@ app.use(express.urlencoded({extended: false}));
 app.use('/', customerRoutes);
 
 // static files
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, '/static')));
 
 // starting the server
 app.listen(app.get('port'), () => {
